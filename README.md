@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-mominulislam&label=Profile%20views&color=0e75b6&style=flat" alt="md-mominulislam" /> </p>
 
-- 🌱 I’m currently learning **Django,React**
+- 🌱 I’m currently learning **Quantum AI , Large Language Models(LLMs) , Django, React**
 
 - 👨‍💻 All of my projects are available at [https://welcome-to-momins-website.onrender.com](https://welcome-to-momins-website.onrender.com)
 
