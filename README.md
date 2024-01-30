@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mominul Islam</h1>
-<h3 align="center">A passionate Machine Learning,NLP,Deep Learning,Computer Vision and Full Stack webDevelop</h3>
+<h3 align="center">A passionate Natural Language Processing,QuantumAI,Quantum Computing,Machine Learning,Deep Learning,Computer Vision and Full Stack webDevelop</h3>
 <img align="right" alt="Coding", width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-mominulislam&label=Profile%20views&color=0e75b6&style=flat" alt="md-mominulislam" /> </p>
